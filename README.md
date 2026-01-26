@@ -12,4 +12,9 @@ simple :3
 also feel free to ***delete*** the **.zip** after..
 
 ---
+### how to update?
+**1: delete/put** the **old file** in your **bin**  
+**2:** follow 
+
+---
 **update: 2**
