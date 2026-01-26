@@ -12,4 +12,4 @@ simple :3
 also feel free to ***delete*** the **.zip** after..
 
 ---
-**update: 1**
+**update: 2**
