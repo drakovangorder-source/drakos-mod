@@ -14,7 +14,7 @@ also feel free to ***delete*** the **.zip** after..
 ---
 ### how to update?
 **1: delete/put** the **old file** in your **bin**  
-**2:** follow 
+**2:** follow https://static1.personalitydatabase.net/2/pdb-images-prod/bf43a9ed/profile_images/d467eb6fe4a14a19adddf898c571213a.png
 
 ---
 **update: 2**
