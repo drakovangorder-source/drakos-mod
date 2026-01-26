@@ -18,7 +18,9 @@ also feel free to ***delete*** the **.zip** after..
 **3:** **delete** the old **.jokerforge**, if you want..
 
 ---
-### update: 1.2
+### update: v1.2 & v1.3
 
 added *how wild?*  
-added and then removed *Rare Pack* due to being broken and crashing the game when opened.
+added and then removed *Rare Pack* due to being broken and crashing the game when opened.  
+\-  
+fixed both john knights.  
