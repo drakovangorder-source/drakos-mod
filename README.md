@@ -13,7 +13,7 @@ also feel free to ***delete*** the **.zip** after..
 
 ---
 ### how to update?
-**1: delete/put** the **old file** in your **bin**  
+**1: delete/put** the **old unziped file** in your **bin**  
 **2:** follow the **how to install?**  
 **3:** **delete** the old **.jokerforge**, if you want..
 
