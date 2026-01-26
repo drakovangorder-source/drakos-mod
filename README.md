@@ -18,6 +18,7 @@ also feel free to ***delete*** the **.zip** after..
 **3:** **delete** the old **.jokerforge**, if you want..
 
 ---
-**update: 1.2**  
+**update: 1.2**
+
 added *how wild?*  
 added and then removed *Rare Pack* due to being broken and crashing the game when opened.
