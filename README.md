@@ -23,4 +23,4 @@ also feel free to ***delete*** the **.zip** after..
 added *how wild?*  
 added and then removed *Rare Pack* due to being broken and crashing the game when opened.  
 \-  
-fixed both john knights.  
+fixed both john *knights*.  
