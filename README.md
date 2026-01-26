@@ -18,4 +18,4 @@ also feel free to ***delete*** the **.zip** after..
 **3:** **delete** the old **.jokerforge**, if you want..
 
 ---
-**update: 2**
+**update: 1.2**
