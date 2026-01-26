@@ -1,6 +1,7 @@
 # drakos-mod
-## my comically overpowered mod for balatro!
-updates speraticaly randomly..  
+## my comically overpowered mod for balatro!  
+<img width="999" height="648" alt="SUPER EPIC LOGO 3" src="https://github.com/user-attachments/assets/eefd7ca7-9b96-4306-a0c8-d886b65dbbed" />
+updates speraticaly randomly..
 
 ---
 ### how to install?  
