@@ -19,6 +19,5 @@ also feel free to ***delete*** the **.zip** after..
 
 ---
 **update: 1.2**  
-**update log:**  
 added *how wild?*  
 added and then removed *Rare Pack* due to being broken and crashing the game when opened.
